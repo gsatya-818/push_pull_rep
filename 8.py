@@ -202,3 +202,4 @@ def find_GCF(a,b):
     return max(common_factors)
             
 print(find_GCF(24,64))
+print(find_GCF(24,16))
